@@ -1,0 +1,26 @@
+*{
+    margin: 15px;
+}
+body{
+    min-height: 100%;
+    width: fit-content;
+    margin: auto;
+}
+.logo{
+    height: 50px;
+    margin-top: 20px;
+}
+nav{
+    margin-left: 700px;
+}
+ul>li{
+    display: inline;
+    margin-right: 10px;
+    text-decoration: none;
+    
+}
+
+li>a{
+    text-decoration: none;
+    font-size: large;
+}
